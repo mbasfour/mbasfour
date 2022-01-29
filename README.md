@@ -1,10 +1,7 @@
 # 💫About Me :
-Full Stack Web Developer,  Since 2009,
-
-Built a lot of websites ranging from simple portfolios to complex apps,
-
-Always learning, always improving
-
+Full Stack Web Developer,  Since 2009,\
+Built a lot of websites ranging from simple portfolios to complex apps,\
+Always learning, always improving\
 Open to new technologies and ideas
 
 ## 🌐Socials
