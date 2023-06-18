@@ -1,8 +1,5 @@
 # 💫About Me :
-Full Stack Web Developer,  Since 2009,\
-Built a lot of websites ranging from simple portfolios to complex apps,\
-Always learning, always improving\
-Open to new technologies and ideas
+Experienced Full Stack Web Developer with over a decade of professional expertise, commencing in 2009. Proficient in crafting a diverse array of websites, encompassing both basic portfolios and intricate applications. Committed to perpetual growth and advancement, consistently acquiring new knowledge and refining skills. Demonstrates an eagerness to embrace emerging technologies and novel concepts.
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/mbasfour) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/m.b.asfour) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mbasfour) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/397793/muhamad-bhaa-asfour) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/mbasfoor) 
